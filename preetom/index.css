@@ -1,0 +1,119 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Amiko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Farro&display=swap');
+
+
+body{
+background-color:rgb(0, 0, 0);
+color:rgb(50, 3, 83) 20), 0, 0);
+margin:0 ;
+padding: 5px 5px 5px 5px ;
+font-family: 'Amiko', sans -serif;
+
+}
+.container-fluid{
+    <padding:5px;
+    background-color: blueviolet ;
+    color:black;
+text-align: center;}
+
+.name{
+	letter-spacing: .8px;
+	text-align: left;
+background-color:white;
+color:black;
+	text-indent: 10px;
+	font-size: 20px;
+text-transform: uppercase;
+font-family: 'Farro', sans-serif;
+
+}
+
+
+.nav{
+background-color:white;
+color:black;
+height:auto;
+margin:auto;
+padding: 5px 5px 5px 5px;
+font-size: 20px;
+font-family: 'Farro', sans-serif;
+
+}
+ .center-navbar {
+            display: flex;
+            justify-content: center;
+        }
+ul {
+text-align: right;
+background-color:white;
+color:black;
+font-size: 20px;
+list-style-type: none;
+overflow: hidden;
+letter-spacing: 0.8px;
+margin:8px 8px 8px 8px;
+padding: 5px 5px 5px 5px;
+display: inline-block;
+}
+
+li {
+float:initial;
+display: inline-block;
+text-align: right;
+background-color:white;
+color:black;
+margin: none;
+	font-size: 20px;
+
+}
+
+li a {
+display: inline;
+background-color:white;
+color:black;
+text-align: center;
+text-decoration: none;
+font-size: 20px;
+padding: 5px ;
+
+}
+
+li a:hover {
+background-color:white;
+color: turquoise;
+}
+
+li a:last-child{
+border-bottom: none;
+}
+
+.title{
+background-color:white;
+color:black;
+margin: 140px 10px 10px 10px;
+text-align: center;
+font-size:52.5px;
+
+}
+
+.description{
+background-color:white;
+color:black;
+font-size:20px;
+text-align: center;
+font-weight: normal;
+
+
+
+
+
+/*Menu Icon*/
+/*
+.icon {
+  width: 35px;
+  height: 5px;
+  background-color:black;
+  margin: 6px 1px;
+}
+*/
